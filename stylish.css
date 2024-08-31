@@ -1,0 +1,8 @@
+#one{
+    height:100px;
+    width: 100px;
+    border:solid;
+    border-width: 2px;
+    border-color: black;
+    display: inline-block;
+}
